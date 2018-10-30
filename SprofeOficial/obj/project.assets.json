@@ -12540,11 +12540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\10.10.11.11\\Documents\\SprofeOficial\\SprofeOficial.csproj",
+      "projectUniqueName": "C:\\Users\\10.10.11.11\\Downloads\\SProfe\\SprofeOficial\\SprofeOficial.csproj",
       "projectName": "SprofeOficial",
-      "projectPath": "C:\\Users\\10.10.11.11\\Documents\\SprofeOficial\\SprofeOficial.csproj",
+      "projectPath": "C:\\Users\\10.10.11.11\\Downloads\\SProfe\\SprofeOficial\\SprofeOficial.csproj",
       "packagesPath": "C:\\Users\\10.10.11.11\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\10.10.11.11\\Documents\\SprofeOficial\\obj\\",
+      "outputPath": "C:\\Users\\10.10.11.11\\Downloads\\SProfe\\SprofeOficial\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
