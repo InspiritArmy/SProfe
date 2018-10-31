@@ -8,5 +8,9 @@ namespace SprofeOficial.Controllers
         {
             return View();
         }
+                public IActionResult Proinfo()
+        {
+            return View();
+        }
     }
 }
