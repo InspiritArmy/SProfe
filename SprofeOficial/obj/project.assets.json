@@ -12709,23 +12709,39 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\alumno\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\alumno.CIIS\\.nuget\\packages\\": {},
+>>>>>>> 12589fa3836c2a9c9f3308c61b65db7d12b42400
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\alumno\\Pictures\\SProfe\\SprofeOficial\\SprofeOficial.csproj",
       "projectName": "SprofeOficial",
       "projectPath": "C:\\Users\\alumno\\Pictures\\SProfe\\SprofeOficial\\SprofeOficial.csproj",
       "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\alumno\\Pictures\\SProfe\\SprofeOficial\\obj\\",
+=======
+      "projectUniqueName": "c:\\Users\\alumno.CIIS\\Documents\\GitHub\\SProfe\\SprofeOficial\\SprofeOficial.csproj",
+      "projectName": "SprofeOficial",
+      "projectPath": "c:\\Users\\alumno.CIIS\\Documents\\GitHub\\SProfe\\SprofeOficial\\SprofeOficial.csproj",
+      "packagesPath": "C:\\Users\\alumno.CIIS\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\alumno.CIIS\\Documents\\GitHub\\SProfe\\SprofeOficial\\obj\\",
+>>>>>>> 12589fa3836c2a9c9f3308c61b65db7d12b42400
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\alumno.CIIS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 12589fa3836c2a9c9f3308c61b65db7d12b42400
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
