@@ -29,3 +29,9 @@ C:\Users\alumno.CIIS\Documents\GitHub\SProfe\SprofeOficial\obj\Debug\netcoreapp2
 C:\Users\alumno.CIIS\Documents\GitHub\SProfe\SprofeOficial\obj\Debug\netcoreapp2.0\SprofeOficial.AssemblyInfo.cs
 C:\Users\alumno.CIIS\Documents\GitHub\SProfe\SprofeOficial\obj\Debug\netcoreapp2.0\SprofeOficial.dll
 C:\Users\alumno.CIIS\Documents\GitHub\SProfe\SprofeOficial\obj\Debug\netcoreapp2.0\SprofeOficial.pdb
+C:\Users\alumno\Documents\GitHub\SProfe\SprofeOficial\obj\Debug\netcoreapp2.0\SprofeOficial.csprojAssemblyReference.cache
+C:\Users\alumno\Documents\GitHub\SProfe\SprofeOficial\obj\Debug\netcoreapp2.0\SprofeOficial.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Documents\GitHub\SProfe\SprofeOficial\obj\Debug\netcoreapp2.0\SprofeOficial.AssemblyInfoInputs.cache
+C:\Users\alumno\Documents\GitHub\SProfe\SprofeOficial\obj\Debug\netcoreapp2.0\SprofeOficial.AssemblyInfo.cs
+C:\Users\alumno\Documents\GitHub\SProfe\SprofeOficial\obj\Debug\netcoreapp2.0\SprofeOficial.dll
+C:\Users\alumno\Documents\GitHub\SProfe\SprofeOficial\obj\Debug\netcoreapp2.0\SprofeOficial.pdb
